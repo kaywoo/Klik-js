@@ -1,0 +1,29 @@
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+  border: 2px dotted black;
+  color: yellow;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: grey;
+}
+
+div {
+  width: 30px;
+  height: 30px;
+  background-color: lightseagreen;
+  margin: 5px;
+  float: left;
+  color: white;
+  text-align: center;
+  line-height: 30px;
+  border: 2px solid black;
+}
+
+.circle {
+  background-color: yellow;
+  border-radius: 50%;
+  color: black;
+  border: 2px solid black;
+}
